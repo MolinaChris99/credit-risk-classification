@@ -51,7 +51,7 @@ Separate the data into features (X) and target labels (y).
 * Resampling Techniques: Address any class imbalances in the dataset using methods like SMOTE (Synthetic Minority Over-sampling Technique).
 
 ### Dependencies
-* This notebook requires the following Python libraries:
+This notebook requires the following Python libraries:
 
 - pandas
 - numpy
